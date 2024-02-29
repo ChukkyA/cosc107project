@@ -1,0 +1,25 @@
+body {
+    background-image: url('../images/Worldcup.jpg');
+    background-repeat: no-repeat;
+    background-position: 550px 150px;
+    background-color: slategray;
+}
+header {
+    text-align: center;
+}
+.head {
+    color: rgb(29, 29, 34);
+    font-size: 80px;
+    font-weight: 600;
+}
+h1 {
+    text-align: left;
+    font-size: 60px;
+    font-weight: 300;
+    color: rgb(29, 29, 34);
+}
+.countdown {
+    color: rgb(29, 29, 34);
+    font-size: 65px;
+    font-weight: 400;
+}
